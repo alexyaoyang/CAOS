@@ -4,7 +4,7 @@ Takes in user inputs, and displays results in Cylinder/Gantt Chart after running
 
 ## Download
 
-Download executable .jar at https://www.dropbox.com/s/0y5kvlirs70fmba/CAOS.jar. Have fun!
+Download executable .jar at https://www.dropbox.com/s/0y5kvlirs70fmba/CAOS.jar. Have fun! :)
 
 ## Screenshots
 
@@ -20,5 +20,5 @@ Download executable .jar at https://www.dropbox.com/s/0y5kvlirs70fmba/CAOS.jar. 
 
 ![priority setup](screenshots/PrioritySetup.jpeg)
 
-![priority gc](screenshots/PriorityGC.jpg)
+![priority gc](screenshots/PriorityGC.jpeg)
 
