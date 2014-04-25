@@ -1,5 +1,6 @@
 ## Computer Architecture & Operating Systems (ESE3009)
 
+Built in Java, UI created with JSwing.
 Takes in user inputs, and displays results in Cylinder/Gantt Chart after running algorithms.
 
 ## Download
