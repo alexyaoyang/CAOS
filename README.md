@@ -4,5 +4,5 @@ Download .jar at https://www.dropbox.com/s/u2x78p1d2ogs2w1/CAOS.jar
 
 
 Screenshots:
-![Alt text](screenshots/main.jpeg)
+![main](screenshots/main.jpeg)
 
